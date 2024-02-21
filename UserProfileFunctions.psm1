@@ -8,7 +8,8 @@
    New-UserProfile -Username 'testUser1' -Password 'testUser1'
 .NOTES
    Created by: Josh Rickard (@MS_dministrator) and Thom Schumacher (@driberif)
-
+   https://gist.github.com/crshnbrn66/7e81bf20408c05ddb2b4fdf4498477d8#file-user-profile-psm1
+   
    Modified by Fritz R. 2024 
    - tested and compatible to PS 5.1
    - changed New-LocalUser to PS native method
